@@ -1,4 +1,5 @@
 
+
 # DevSphere — AI-Powered Developer Productivity & Team Intelligence Platform
 
 DevSphere is an AI assistant for software development teams. It currently has two working modules:
@@ -325,3 +326,7 @@ Full interactive API docs available at `http://localhost:8000/docs` once the bac
 ## 📄 License / Academic Context
 
 Built as a final-year B.Tech project. Free to explore, extend, and reuse.
+=======
+# DevSphere
+DevSphere — AI-Powered Developer Productivity &amp; Team Intelligence Platform. A unified AI platform combining codebase Q&amp;A (RAG), automated code review, bug triage, and team analytics using LLMs. Final-year B.Tech major project (Moradabad Institute of Technology).
+
